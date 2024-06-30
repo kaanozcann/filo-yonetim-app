@@ -13,7 +13,7 @@ Filo Yönetim uygulaması, kamyonlarınızın kayıtlarını, bakım ve yakıt t
 ## Kurulum
 1. Bu projeyi klonlayın:
    
-    git clone https://github.com/kullaniciadi/kamyon-kayit-uygulamasi.git
+    git clone https://github.com/kaanozcann/filo-yonetim-app.git/
     
 2. Gerekli kütüphaneleri yükleyin:
     
